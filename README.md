@@ -13,3 +13,7 @@ Implement a Best Match Model (ex: BM1, BM15, BM11, BM25, BM25L), and print out t
 
 Implement an evaluation function, which can return the MAP score a set of queries.
 
+### Homework 5 - Query Modeling
+
+Implement a PRF algorithm for retrieval.
+
