@@ -9,7 +9,10 @@ Implement a vector space model, and print out the ranking results for all of the
 
 Implement a Best Match Model (ex: BM1, BM15, BM11, BM25, BM25L), and print out the ranking results for all of the queries.
 
-### Homework 3 - HW3 Mean Average Precision
+### Homework 3 - Mean Average Precision
 
 Implement an evaluation function, which can return the MAP score a set of queries.
 
+### Homework 4 - PLSA
+
+Implement the PLSA model, and incorporate the PLSA and query likelihood measure for retrieval.
