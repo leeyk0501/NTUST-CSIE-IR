@@ -16,3 +16,7 @@ Implement an evaluation function, which can return the MAP score a set of querie
 ### Homework 4 - PLSA
 
 Implement the PLSA model, and incorporate the PLSA and query likelihood measure for retrieval.
+
+### Homework 5 - Query Modeling
+
+Implement a PRF algorithm for retrieval.
