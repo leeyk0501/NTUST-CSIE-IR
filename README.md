@@ -20,3 +20,8 @@ Implement the PLSA model, and incorporate the PLSA and query likelihood measure 
 ### Homework 5 - Query Modeling
 
 Implement a PRF algorithm for retrieval.
+
+### Homework 6 - Transformer-based Models
+
+Rescore BM25 retrieval with Transformer-based models.
+
